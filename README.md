@@ -138,11 +138,11 @@ The remaining columns are following:
 
 - Average-fBodyAccJerk-mean()-Z - (dimensionless, normalized [-1,1]) normalized mean result of applying FFT to Z-component of body acceleration Jerk. Averaged for certain subject and certain activity.
 
-- Average-fBodyAccJerk-std()-X - (dimensionless, normalized [-1,1]) normalized standard deviation of the result of applying FFT to X-component of body acceleration ith Jerk signal. Averaged for certain subject and certain activity.
+- Average-fBodyAccJerk-std()-X - (dimensionless, normalized [-1,1]) normalized standard deviation of the result of applying FFT to X-component of body acceleration Jerk. Averaged for certain subject and certain activity.
 
-- Average-fBodyAccJerk-std()-Y - (dimensionless, normalized [-1,1]) normalized standard deviation of the result of applying FFT to Y-component of body acceleration ith Jerk signal. Averaged for certain subject and certain activity.
+- Average-fBodyAccJerk-std()-Y - (dimensionless, normalized [-1,1]) normalized standard deviation of the result of applying FFT to Y-component of body acceleration Jerk. Averaged for certain subject and certain activity.
 
-- Average-fBodyAccJerk-std()-Z - (dimensionless, normalized [-1,1]) normalized standard deviation of the result of applying FFT to Z-component of body acceleration ith Jerk signal. Averaged for certain subject and certain activity.
+- Average-fBodyAccJerk-std()-Z - (dimensionless, normalized [-1,1]) normalized standard deviation of the result of applying FFT to Z-component of body acceleration Jerk. Averaged for certain subject and certain activity.
 
 - Average-fBodyAccJerk-meanFreq()-X - (dimensionless, normalized [-1,1]) normalized mean frequency of X-component of body acceleration Jerk. Averaged for certain subject and certain activity.
 
