@@ -110,9 +110,9 @@ The remaining columns are following:
 
 - Average-tBodyGyroMag-std() - (dimensionless, normalized [-1,1]) normalized standard deviation for magnitude of measurement of body gyroscope. Averaged for certain subject and certain activity.
 
-- Average-tBodyGyroJerkMag-mean() - (dimensionless, normalized [-1,1]) normalized mean for magnitude of measurement Jerk of body gyroscope. Averaged for certain subject and certain activity.
+- Average-tBodyGyroJerkMag-mean() - (dimensionless, normalized [-1,1]) normalized mean for magnitude of Jerk of measurement of body gyroscope. Averaged for certain subject and certain activity.
 
-- Average-tBodyGyroJerkMag-std() - (dimensionless, normalized [-1,1]) normalized standard deviation for magnitude of measurement Jerk of body gyroscope. Averaged for certain subject and certain activity.
+- Average-tBodyGyroJerkMag-std() - (dimensionless, normalized [-1,1]) normalized standard deviation for magnitude of Jerk of measurement of body gyroscope. Averaged for certain subject and certain activity.
 
 - Average-fBodyAcc-mean()-X - (dimensionless, normalized [-1,1]) normalized mean result of applying FFT to X-component of body acceleration. Averaged for certain subject and certain activity.
 
@@ -186,8 +186,8 @@ The remaining columns are following:
 
 - Average-fBodyBodyGyroMag-meanFreq() - (dimensionless, normalized [-1,1]) normalized mean frequency for magnitude of measurement of body gyroscope. Averaged for certain subject and certain activity.
 
-- Average-fBodyBodyGyroJerkMag-mean() - (dimensionless, normalized [-1,1]) normalized mean result of appying FFT to the magnitude of measurement Jerk of body gyroscope. Averaged for certain subject and certain activity.
+- Average-fBodyBodyGyroJerkMag-mean() - (dimensionless, normalized [-1,1]) normalized mean result of appying FFT to the magnitude of Jerk of measurement of body gyroscope. Averaged for certain subject and certain activity.
 
-- Average-fBodyBodyGyroJerkMag-std() - (dimensionless, normalized [-1,1]) normalized standard deviation of the result of appying FFT to the magnitude of measurement Jerk of body gyroscope. Averaged for certain subject and certain activity.
+- Average-fBodyBodyGyroJerkMag-std() - (dimensionless, normalized [-1,1]) normalized standard deviation of the result of appying FFT to the magnitude of Jerk of measurement of body gyroscope. Averaged for certain subject and certain activity.
 
-- Average-fBodyBodyGyroJerkMag-meanFreq() - (dimensionless, normalized [-1,1]) normalized mean frequency of magnitude of measurement Jerk of body gyroscope. Averaged for certain subject and certain activity.
+- Average-fBodyBodyGyroJerkMag-meanFreq() - (dimensionless, normalized [-1,1]) normalized mean frequency of magnitude of Jerk of measurement of body gyroscope. Averaged for certain subject and certain activity.
